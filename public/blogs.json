@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/ng17Frp/flat-lay-desk-dark-concept-with-copy-space.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Emily Smith",
+        "author_img": "https:i.ibb.co/Sn7zB4q/girl2.jpg",
+        "posted_date": "September 5, 2023",
+        "reading_time": "25",
+        "hashtags": ["Fantasy", "Adventure", "Nature"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/ng17Frp/flat-lay-desk-dark-concept-with-copy-space.jpg",
+        "title": "Code Warriors: The Digital Frontier",
+        "author": "John Anderson",
+        "author_img": "https:i.ibb.co/Sn7zB4q/girl1.jpg",
+        "posted_date": "August 20, 2023",
+        "reading_time": "40",
+        "hashtags": ["Technology", "Coding", "CyberWar"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/ng17Frp/flat-lay-desk-dark-concept-with-copy-space.jpg",
+        "title": "Love in Paris: A Romantic Journey",
+        "author": "Maria Rodriguez",
+        "author_img": "https:i.ibb.co/Sn7zB4q/boy2.jpg",
+        "posted_date": "July 12, 2023",
+        "reading_time": "15",
+        "hashtags": ["Romance", "Travel", "Paris"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/ng17Frp/flat-lay-desk-dark-concept-with-copy-space.jpg",
+        "title": "Mysteries of the Deep: Underwater Exploration",
+        "author": "David Williams",
+        "author_img": "https:i.ibb.co/Sn7zB4q/boy1.jpg",
+        "posted_date": "June 8, 2023",
+        "reading_time": "30",
+        "hashtags": ["Science", "Adventure", "Ocean"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/ng17Frp/flat-lay-desk-dark-concept-with-copy-space.jpg",
+        "title": "The Culinary Chronicles: A Foodie's Journey",
+        "author": "Sarah Johnson",
+        "author_img": "https:i.ibb.co/Sn7zB4q/girl2.jpg",
+        "posted_date": "May 2, 2023",
+        "reading_time": "20",
+        "hashtags": ["Food", "Cuisine", "Travel"]
+    }
+]
